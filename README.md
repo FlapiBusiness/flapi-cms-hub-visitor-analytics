@@ -1,4 +1,4 @@
-# Crzgames - Server Umami (Extern to the Cluster K3S)
+# Flapi - Server Umami (Extern to the Cluster K3S)
 
 ## Setup Environment :
 1. Go to connect SSH to VPS : 51.75.248.97 (via le Server extern au cluster K3S)
