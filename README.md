@@ -69,7 +69,7 @@
 1. Go to connect SSH to VPS : 51.75.248.97 (via le Server extern au cluster K3S)
 2. Go to directory :
    ```bash
-   cd /home/debian/umami-crzcommon
+   cd /home/debian/umami-flapi
    ```
 3. Run commands :
    ```bash
