@@ -1,6 +1,6 @@
-# Flapi - Server Umami (Extern to the Cluster K3S)
+# Flapi - Cms Hub Visitor Analytics - Umami
 
-## Setup Environment :
+## ⚙️ Setup Environment :
 1. Go to connect SSH to VPS : 51.75.248.97 (via le Server extern au cluster K3S)
 2. Download and Install Docker in VPS : https://docs.docker.com/engine/install/debian/ (for debian)
 3. Download and Install NGINX in VPS : sudo apt install nginx
@@ -65,7 +65,7 @@
 <br /><br /><br /><br />
 
 
-## Update Umami :
+## 🔄 Update Umami :
 1. Go to connect SSH to VPS : 51.75.248.97 (via le Server extern au cluster K3S)
 2. Go to directory :
    ```bash
@@ -80,7 +80,7 @@
 <br /><br /><br /><br />
 
 
-## Cycle Development :
+## 🚀 Production :
 1. Go to connect SSH to VPS : 51.75.248.97 (via le Server extern au cluster K3S)
 2. Go to directory :
    ```bash
