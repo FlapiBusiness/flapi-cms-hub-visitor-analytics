@@ -7,7 +7,7 @@
 4. Create directory "umami-flapi" and cd directory
 5. Clone project Umami (changer la version du tag si besoin) :
    ```bash
-   git clone -b v2.15.1 git@github.com:umami-software/umami.git
+   git clone -b v2.18.1 git@github.com:umami-software/umami.git
    ```
 6. Run Umami :
    ```bash
